@@ -1,0 +1,147 @@
+.qipan{
+	width: 810px;
+	height: 890px;
+	background-image: url(../images/qipan.png);
+	position: relative;
+}
+
+.qipan2{
+	width: 723px;
+	height: 803px;
+	position:relative;
+	padding: 43.5px;
+}
+
+#qizi{
+	position: relative;
+	float: left;
+	margin-right: 5.3px;
+	margin-bottom: 6px;
+	width: 75px;
+	height: 75px;
+	border-radius: 100px;
+}
+
+.canMove{
+	background-color: #f00;
+	// border-radius: 50px;
+	opacity: 0.5;
+	cursor: pointer;
+}
+
+
+.shuai ,.rrche ,
+.rrma,.rrpao,.rrshi ,
+.rrxiang,.rlche ,
+.rlma,.rlpao,.rlshi ,
+.rlxiang,.bing1 ,
+.bing2,.bing3 ,
+.bing4,.bing5 ,
+.jiang,.brche,.blche ,
+.brma,.blma,.brpao ,
+.blpao,.brshi,.blshi ,
+.brxiang,.blxiang,.zu1 ,
+.zu2,.zu3,.zu4,
+.zu5{
+	width: 75px;
+	height: 75px;
+	background-image: url(../images/qizi.png);
+	background-size: 610px 166px;
+	cursor: pointer;
+}
+.shuai{
+	background-position: -26px -243px;
+}
+.rrche{
+	background-position: -106px -243px;	
+}
+.rlche{
+	background-position: -106px -243px;
+}
+.rrma{
+	background-position: -188px -243px;
+}
+.rlma{
+	background-position: -188px -243px;
+}
+.rrxiang{
+	background-position: -432px -243px;
+}
+.rlxiang{
+	background-position: -432px -243px;
+}
+.rrshi{
+	background-position: -349px -243px;
+}
+.rlshi{
+	background-position: -349px -243px;
+}
+.rrpao{
+	background-position: -269px  -78px;
+}
+ .rlpao{
+	background-position: -269px -78px;
+}
+ .bing1{
+	background-position: -514px -80px;
+}
+ .bing2{
+	background-position: -514px -80px;
+}
+ .bing3{
+	background-position: -514px -80px;
+}
+.bing4{
+	background-position: -514px -80px;
+}
+ .bing5{
+	background-position: -514px -80px;
+}
+.jiang{
+	background-position: -26px 0;
+}
+.brche{
+	background-position: -106px 0;
+}
+.blche {
+	background-position: -106px 0;
+}
+.brma{
+	background-position: -188px 0;
+}
+.blma{
+	background-position: -188px 0;
+}
+.brpao{
+	background-position: -270px 0;
+}
+.blpao{
+	background-position: -270px 0;
+}
+.brshi{
+	background-position: -349px 0;
+}
+.blshi{
+	background-position: -349px 0;
+}
+.brxiang{
+	background-position: -432px 0px;
+}
+.blxiang{
+	background-position: -432px 0px;
+}
+.zu1{
+	background-position: -514px 0px;
+}
+.zu2{
+	background-position: -514px 0px;
+}
+.zu3{
+	background-position: -514px 0px;
+}
+.zu4{
+	background-position: -514px 0px;
+}
+.zu5{
+	background-position: -514px 0px;
+}
